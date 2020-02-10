@@ -3,10 +3,8 @@
 
 ## Installation
 '''bash
-# Install Node dependencies
 npm install
 
-# Install Vue dependencies
 cd client
 npm install
 '''

@@ -7,6 +7,11 @@ dotenv.config({ path: './config.env' });
 
 const app = express();
 
+// Dev logging
+if(process.env.NODE_ENV === 'development') {
+    app.use(morgan('dev'));
+}
+
 const port = process.env.PORT || 8000;
 
 // Profile routes

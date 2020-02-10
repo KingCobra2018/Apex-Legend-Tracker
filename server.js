@@ -7,6 +7,8 @@ dotenv.config({ path: './config.env' });
 
 const app = express();
 
-app.listen(5000, () => {
-    console.log('app working on post 5000!');
+const port = process.env.PORT || 8000;
+
+app.listen(port, () => {
+    console.log(`Server running in ${process.env.NODE_ENV} mode on port ${port}`);
 });

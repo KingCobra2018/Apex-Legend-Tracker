@@ -1,4 +1,6 @@
-# Apex-Legend Tracker App ✎
+[![atl-text-1](https://img.shields.io/badge/Version-13.9.0-blue?logo=NPM&style=flat)](https://nodejs.org/en/) [![atl-text-3](https://img.shields.io/badge/Version-3.0.0-blue?logo=Vue.js&style=flat)](https://vuejs.org/) [![atl-text-2](https://img.shields.io/badge/License-MIT-blue?logo=License&style=flat)](https://github.com/KingCobra2018/Apex-Legend-Tracker/blob/master/LICENSE)
+
+# Apex-Legend Tracker App
 ![alt text](https://raw.githubusercontent.com/KingCobra2018/Apex-Legend-Tracker/master/Demo.gif)
 
 ## Installation
